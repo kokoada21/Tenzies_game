@@ -97,7 +97,6 @@ function App() {
     let currectHighscore;
     if(JSON.stringify(highscore) === "{}"){
       currectHighscore = {rolls: rolls, time: time}
-      console.log("isEmptu pco")
     }else{
       currectHighscore = {
         rolls: rolls < highscore.rolls ? rolls : highscore.rolls,
