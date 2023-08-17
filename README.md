@@ -8,3 +8,5 @@ npm install
 npm run dev
 
 ````
+---
+![tenzies_screenshot](https://github.com/kokoada21/tenzies_game/assets/110021779/009c2b57-9da6-4e19-bc6b-ebc91cd46160)
